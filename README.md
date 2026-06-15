@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dataset-TMDB%205000%20Movies-01b4e4?style=flat-square"/>
   <img src="https://img.shields.io/badge/Algorithm-TF--IDF%20%2B%20Cosine%20Similarity-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UI-Dark%20Netflix%20Theme-E50914?style=flat-square"/>
 </p>
 
 ---
